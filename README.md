@@ -5,7 +5,7 @@ This portfolio showcases my work for prospective employers, while also providing
 I benefitted tremendously from the tips and advice of prior students throughout my educational journey, and this is a part of my ongoing issue to return 
 the favor and ensure more people get the help they need to also complete this degree. 
 
-This degree focused on 11 courses: 
+This degree included on 11 courses: 
 
 D204: The Data Analytics Journey
 
@@ -15,8 +15,7 @@ and requirements to position graduates to answer key questions for businesses an
 prerequisites.
 
 This course covers the following competencies:
-● Begin your course by discussing your course planning tool report with your instructor and creating your personalized
-course plan together. 
+
 ● The graduate explains the phases of the data analytics life cycle to contextualize and define the scope of each phase.
 ● The graduate develops a project plan to solve organizational problems.
 ● The graduate determines organizational requirements to improve key drivers.
@@ -30,8 +29,6 @@ structure, and clean data as well as to reduce features in data sets. The follow
 Analytics Journey, and Data Acquisition.
 
 This course covers the following competencies:
-● Begin your course by discussing your course planning tool report with your instructor and creating your personalized
-course plan together.
 ● The graduate predicts potential obstacles in data analysis based on the quality of data provided.
 ● The graduate prepares data for analysis to address organizational needs.
 ● The graduate writes reusable code to manipulate and clean data in preparation for analysis.
@@ -43,9 +40,7 @@ compute and interpret measures of central tendency, correlations, and variation.
 focusing on application for parametric tests, and addresses communication skills and tools to explain an analyst’s findings to
 others within an organization. Data Cleaning is a required prerequisite for this course.
 
-This course covers the following competencies:
-● Begin your course by discussing your course planning tool report with your instructor and creating your personalized
-course plan together.
+This course covers the following competencies:.
 ● The graduate interprets central tendency, correlations, and variation to inform organizational decisions.
 ● The graduate conducts parametric hypothesis testing.
 
@@ -59,8 +54,6 @@ findings and the limitations of those findings accurately to organizational lead
 for this course.
 
 This course covers the following competencies:
-● Begin your course by discussing your course planning tool report with your instructor and creating your personalized
-course plan together.
 ● The graduate employs logistic regression algorithms to describe phenomena.
 ● The graduate employs multiple regression algorithms with categorical and numerical predictors in describing
 phenomena.
@@ -76,8 +69,6 @@ include machine learning, neural networks, randomness, and unconventional data s
 for this course.
 
 This course covers the following competencies:
-● Begin your course by discussing your course planning tool report with your instructor and creating your personalized
-course plan together.
 ● The graduate builds neural networks in the context of machine-learning modeling.
 ● The graduate applies time series models in generating forecasts.
 ● The graduate extracts insights from text data using effective and appropriate natural processing (NLP) models.
@@ -88,16 +79,14 @@ D205: Data Acquisition
 Data Acquisition builds proficiency in Structured Query Language (SQL) and the initial stages of the data analytics lifecycle.
 The course introduces relational databases. Students gain concrete skills in data transference and database manipulation.
 There are no prerequisites.
+
 This course covers the following competencies:
-● Begin your course by discussing your course planning tool report with your instructor and creating your personalized
-course plan together.
 ● The graduate examines the data available for analysis to determine their dimension, quality, relations, and limitations.
 ● The graduate implements physical data models.
 ● The graduate performs table operations and queries within the context of data acquisition for analysis.
 
 D211: Advanced Data Acquisition
 Advanced Data Acquisition enhances theoretical and SQL skills in furthering the data analytics life cycle. This course covers advanced SQL operations, aggregating data, and acquiring data from various sources in support of core organizational needs. The prerequisite for this course is Representation and Reporting. This course covers the following competencies: 
-● Begin your course by discussing your course planning tool report with your instructor and creating your personalized course plan together. 
 ● The graduate applies advanced SQL operations to integrate multiple data sources. 
 ● The graduate explores data acquisition
 
@@ -113,8 +102,6 @@ course provides frameworks for assessing models’ sensitivity and specificity. 
 this course
 
 This course covers the following competencies:
-● Begin your course by discussing your course planning tool report with your instructor and creating your personalized
-course plan together.
 ● The graduate applies observations to appropriate classes and categories using classification models.
 ● The graduate implements prediction data mining models to find hard-to-spot relationships among variables.
 ● The graduate evaluates data mining model performance for precision, accuracy, and model comparison.
@@ -128,8 +115,6 @@ Representation and Reporting focuses on communicating observations and patterns 
 of the data analytics life cycle. This course helps students gain communication and storytelling skills. It also covers data
 visualizations, audio representations, and interactive dashboards. The prerequisite for this course is Data Mining I.
 This course covers the following competencies:
-● Begin your course by discussing your course planning tool report with your instructor and creating your personalized
-course plan together.
 ● The graduate communicates data insights to technical and nontechnical audiences.
 ● The graduate creates data representations to offer insight into an organizational problem. 
 ● The graduate designs executive decision support with interactive tools.
@@ -142,6 +127,7 @@ D214: Data Analytics Graduate Capstone
 The Data Analytics Graduate Capstone allows students to apply the academic and professional abilities developed as a
 graduate student. This capstone challenges students to integrate skills and knowledge from several program domains into
 one project. Advanced Data Analytics is a prerequisite for this course.
+
 This course covers the following competencies:
 ● The graduate integrates and synthesizes competencies from across the degree program, thereby demonstrating the
 ability to participate in and contribute value to the chosen professional field.
