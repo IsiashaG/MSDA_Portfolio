@@ -7,7 +7,7 @@ the favor and ensure more people get the help they need to also complete this de
 
 This degree included on 11 courses: 
 
-D204: The Data Analytics Journey
+###D204: The Data Analytics Journey
 
 The Data Analytics Journey gives an overview of the entire analytics life cycle. Learners gain fluency in data analytics
 terminology, tools, and techniques. The course contextualizes the data analytics journey firmly with organizational metrics
@@ -21,7 +21,7 @@ This course covers the following competencies:
 ● The graduate determines organizational requirements to improve key drivers.
 ● The graduate identifies appropriate data analytics tools and techniques to solve organizational problems.
 
-D206: Data Cleaning
+###D206: Data Cleaning
 
 Data Cleaning continues building proficiency in the data analytics life cycle with data preparation skills. This course
 addresses exploring, transforming, and imputing data as well as handling outliers. Learners write code to manipulate,
@@ -34,7 +34,7 @@ This course covers the following competencies:
 ● The graduate writes reusable code to manipulate and clean data in preparation for analysis.
 
 
-D207: Exploratory Data Analysis
+###D207: Exploratory Data Analysis
 Exploratory Data Analysis covers statistical principles supporting the data analytics life cycle. Students in this course
 compute and interpret measures of central tendency, correlations, and variation. The course introduces hypothesis testing,
 focusing on application for parametric tests, and addresses communication skills and tools to explain an analyst’s findings to
@@ -45,7 +45,7 @@ This course covers the following competencies:.
 ● The graduate conducts parametric hypothesis testing.
 
 
-D208: Predictive Modeling
+###D208: Predictive Modeling
 
 Predictive Modeling builds on initial data preparation, cleaning, and analysis, enabling students to make assertions vital to
 organizational needs. In this course, students conduct logistic regression and multiple regression to model the phenomena
@@ -60,7 +60,7 @@ phenomena.
 ● The graduate makes assertions based on regression modeling.
 
 
-D209: Advanced Data Analytics
+###D209: Advanced Data Analytics
 
 Advanced Data Analytics prepares students for career-long growth in steadily advancing tools and techniques and provides
 emerging concepts in data analysis. This course hones the mental and theoretical flexibility that will be required of analysts
@@ -73,9 +73,7 @@ This course covers the following competencies:
 ● The graduate applies time series models in generating forecasts.
 ● The graduate extracts insights from text data using effective and appropriate natural processing (NLP) models.
 
-Data Management
-
-D205: Data Acquisition
+###D205: Data Acquisition
 Data Acquisition builds proficiency in Structured Query Language (SQL) and the initial stages of the data analytics lifecycle.
 The course introduces relational databases. Students gain concrete skills in data transference and database manipulation.
 There are no prerequisites.
@@ -85,15 +83,13 @@ This course covers the following competencies:
 ● The graduate implements physical data models.
 ● The graduate performs table operations and queries within the context of data acquisition for analysis.
 
-D211: Advanced Data Acquisition
+###D211: Advanced Data Acquisition
 Advanced Data Acquisition enhances theoretical and SQL skills in furthering the data analytics life cycle. This course covers advanced SQL operations, aggregating data, and acquiring data from various sources in support of core organizational needs. The prerequisite for this course is Representation and Reporting. This course covers the following competencies: 
 ● The graduate applies advanced SQL operations to integrate multiple data sources. 
 ● The graduate explores data acquisition
 
 
-Data Mining
-
-D209 Data Mining I & D211: Data Mining II
+###D209 Data Mining I & D211: Data Mining II
 
 Data Mining I expands predictive modeling into nonlinear dimensions, enhancing the capabilities and effectiveness of the
 data analytics lifecycle. In this course, learners implement supervised models—specifically classification and prediction data
@@ -107,9 +103,7 @@ This course covers the following competencies:
 ● The graduate evaluates data mining model performance for precision, accuracy, and model comparison.
 
 
-Data Visualization
-
-D210: Representation and Reporting
+###D210: Representation and Reporting
 
 Representation and Reporting focuses on communicating observations and patterns to diverse stakeholders, a key aspect
 of the data analytics life cycle. This course helps students gain communication and storytelling skills. It also covers data
@@ -120,9 +114,7 @@ This course covers the following competencies:
 ● The graduate designs executive decision support with interactive tools.
 
 
-Capstone
-
-D214: Data Analytics Graduate Capstone
+###D214: Data Analytics Graduate Capstone
 
 The Data Analytics Graduate Capstone allows students to apply the academic and professional abilities developed as a
 graduate student. This capstone challenges students to integrate skills and knowledge from several program domains into
