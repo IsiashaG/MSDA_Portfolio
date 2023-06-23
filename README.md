@@ -16,7 +16,7 @@ prerequisites.
 
 This course covers the following competencies:
 ● Begin your course by discussing your course planning tool report with your instructor and creating your personalized
-course plan together.
+course plan together. 
 ● The graduate explains the phases of the data analytics life cycle to contextualize and define the scope of each phase.
 ● The graduate develops a project plan to solve organizational problems.
 ● The graduate determines organizational requirements to improve key drivers.
