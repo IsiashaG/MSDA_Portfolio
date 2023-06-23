@@ -1,0 +1,88 @@
+# MSDA_Portfolio
+![image](https://github.com/IsiashaG/MSDA_Portfolio/assets/120334075/b25d04c1-03a6-4c01-b20c-85cf403a8eb4)
+This is a portfolio of my work in the MS Data Analysis (MSDA) degree program at Western Governors University.
+I completed my education to make a career change into data analytics following a career in Speech-Language Pathology. 
+This portfolio showcases my work for prospective employers, while also providing useful resources for other students following behind me in those programs. 
+I benefitted tremendously from the tips and advice of prior students throughout my educational journey, and this is a part of my ongoing issue to return 
+the favor and ensure more people get the help they need to also complete this degree. 
+
+This degree focused on 11 courses: 
+
+D204: The Data Analytics Journey
+The Data Analytics Journey gives an overview of the entire analytics life cycle. Learners gain fluency in data analytics
+terminology, tools, and techniques. The course contextualizes the data analytics journey firmly with organizational metrics
+and requirements to position graduates to answer key questions for businesses and other employers. This course has no
+prerequisites.
+This course covers the following competencies:
+● Begin your course by discussing your course planning tool report with your instructor and creating your personalized
+course plan together.
+● The graduate explains the phases of the data analytics life cycle to contextualize and define the scope of each phase.
+● The graduate develops a project plan to solve organizational problems.
+● The graduate determines organizational requirements to improve key drivers.
+● The graduate identifies appropriate data analytics tools and techniques to solve organizational problems.
+
+D205: Data Cleaning
+Data Cleaning continues building proficiency in the data analytics life cycle with data preparation skills. This course
+addresses exploring, transforming, and imputing data as well as handling outliers. Learners write code to manipulate,
+structure, and clean data as well as to reduce features in data sets. The following courses are prerequisites: The Data
+Analytics Journey, and Data Acquisition.
+
+This course covers the following competencies:
+● Begin your course by discussing your course planning tool report with your instructor and creating your personalized
+course plan together.
+● The graduate predicts potential obstacles in data analysis based on the quality of data provided.
+● The graduate prepares data for analysis to address organizational needs.
+● The graduate writes reusable code to manipulate and clean data in preparation for analysis.
+
+D207: Exploratory Data Analysis
+Exploratory Data Analysis covers statistical principles supporting the data analytics life cycle. Students in this course
+compute and interpret measures of central tendency, correlations, and variation. The course introduces hypothesis testing,
+focusing on application for parametric tests, and addresses communication skills and tools to explain an analyst’s findings to
+others within an organization. Data Cleaning is a required prerequisite for this course.
+
+This course covers the following competencies:
+● Begin your course by discussing your course planning tool report with your instructor and creating your personalized
+course plan together.
+● The graduate interprets central tendency, correlations, and variation to inform organizational decisions.
+● The graduate conducts parametric hypothesis testing.
+
+D208: Predictive Modeling
+Predictive Modeling builds on initial data preparation, cleaning, and analysis, enabling students to make assertions vital to
+organizational needs. In this course, students conduct logistic regression and multiple regression to model the phenomena
+revealed by data. The course covers normality, homoscedasticity, and significance, preparing students to communicate
+findings and the limitations of those findings accurately to organizational leaders. Exploratory Data Analysis is a prerequisite
+for this course.
+
+This course covers the following competencies:
+● Begin your course by discussing your course planning tool report with your instructor and creating your personalized
+course plan together.
+● The graduate employs logistic regression algorithms to describe phenomena.
+● The graduate employs multiple regression algorithms with categorical and numerical predictors in describing
+phenomena.
+● The graduate makes assertions based on regression modeling.
+
+D209: Advanced Data Analytics
+Advanced Data Analytics prepares students for career-long growth in steadily advancing tools and techniques and provides
+emerging concepts in data analysis. This course hones the mental and theoretical flexibility that will be required of analysts
+in the coming decades while grounding their approach firmly in ethical and organizational-need-focused practice. Topics
+include machine learning, neural networks, randomness, and unconventional data sources. Data Mining II is a prerequisite
+for this course.
+
+This course covers the following competencies:
+● Begin your course by discussing your course planning tool report with your instructor and creating your personalized
+course plan together.
+● The graduate builds neural networks in the context of machine-learning modeling.
+● The graduate applies time series models in generating forecasts.
+● The graduate extracts insights from text data using effective and appropriate natural processing (NLP) models.
+
+Data Management
+Data Acquisition
+Data Acquisition builds proficiency in Structured Query Language (SQL) and the initial stages of the data analytics lifecycle.
+The course introduces relational databases. Students gain concrete skills in data transference and database manipulation.
+There are no prerequisites.
+This course covers the following competencies:
+● Begin your course by discussing your course planning tool report with your instructor and creating your personalized
+course plan together.
+● The graduate examines the data available for analysis to determine their dimension, quality, relations, and limitations.
+● The graduate implements physical data models.
+● The graduate performs table operations and queries within the context of data acquisition for analysis.
